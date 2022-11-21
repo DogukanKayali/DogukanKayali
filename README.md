@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 *   🌍  I'm based in istanbul
-*   ✉️  You can contact me at [dogukankayali@gmail.com](mailto:dogukankayali@gmail.com)### Skills 
+*   ✉️  You can contact me at [dogukankayali@gmail.com](mailto:dogukankayali@gmail.com)
+*   ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
