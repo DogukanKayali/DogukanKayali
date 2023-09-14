@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Doğukan Kayalı</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukankayali" alt="dogukankayali" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
 
@@ -19,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukankayali&show_icons=true&locale=en" alt="dogukankayali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukankayali&" alt="dogukankayali" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dogukankayali" alt="dogukankayali" /></a> </p>
+
