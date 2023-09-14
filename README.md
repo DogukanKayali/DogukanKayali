@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dogukankayali&" alt="dogukankayali" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dogukankayali&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dogukankayali&margin-w=15-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
